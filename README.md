@@ -143,13 +143,13 @@ Having discussed what Macie does, let’s quickly jump into how to use this serv
 ```
 
 ### Step 6 - Clean up
-1. **Disable Macie** in the Settings to stop it from running
-2. Delete the bucket you created for this exercise
+1. **Disable Macie** in the **Settings** screen to stop it from running
+2. **Delete** the bucket you created for this exercise.
 
 <hr style="border:2px solid gray"></hr>
 
 ## Conclusion
-I explained how to identify and discover sensitive data in S3 buckets using Amazon Macie. This servive is of importance to ensure that there are no data breaches and also to protect the confidentiality of objects in S3 buckets. 
+I explained how to identify and discover sensitive data in S3 buckets using Amazon Macie. This service is of importance to ensure that there are no data breaches and also to protect the confidentiality of objects in S3 buckets. 
 
 
 
